@@ -1,0 +1,28 @@
+BoulderTest
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                xxoooxooox                         xxxxxx                      xxxoooooxooooo       xxxoooooooooxxx
+x    o            xoooxooox ooooo        oooooooo                          ooo   xxoooooxooooooo      xxoooooooooxxx
+x   o    o   oo   xxbxxooox b            oooooooo                          ooo    xoooooxooooooooo    xxoooooooooxxx
+x====    o   oo       xxbx               oooooooo       ===xx              ooo    xxoboxxooooooooooo   xxoooooooxxxx
+x        b  >>b                          oooooooo                          kkk     xx xxxooooooooooo    xxoooooxx  x
+x  )    )  )      )   )            )   >>>>>>>>>b             ++        >   |           xxoooooooooo     xxoboxx   x
+x #                             xxxxxxxx                   xxxxxxxx    xx                xxxb<<<<<<<      xx xx    x
+xxxxx    ^  ^               ^ xxxxxxxxxxx                "xxxxxxxx    xxx      xx                                  x
+xxxxxxxxxxxxxxxxxx  ^   ^   xxxxxxxxxxxxxx               " xxxxx      xxxxx   xxxx                                 x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             "            xxxxx   xxxxx> ^             ^ <             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           "            xxxxx   xxxxxx                 ==="==        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        "            xxxxxx  xxxxxxx xx"xx             "          x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    "            xxxxxx xxxxxxxx xx"xx             "==        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxx xx"x              "        D x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxx   x"x              "       xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxx   x"               "   ^  xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxx  xxxxxxx"          xxxxxxxxx  xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxx    xxxxxxxx        xxxxxxxxx     xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx~    xxxxxxxxx      xxxxxxxxxxxxxxxxxxxxx        xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxx        xxxxxxxxxxxxxxxxxx           xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ++   xxxxxxxx         xxxxxxxxxxxxxxx            xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx       xxxxxxxxxxxxxxx     xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

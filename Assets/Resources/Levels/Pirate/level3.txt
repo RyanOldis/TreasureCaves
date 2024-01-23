@@ -1,0 +1,38 @@
+tutorial 3 (boulders)
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxzzzzzzzzzzzzzzzzoooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxzzzz+zzzzzzzzzzzoooooooxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzGzzzzzzoooooxxxxxxxxxoooooooooxxxxxxxxxxxxxx     "xxxxxxxxxxxxxxxxxxxxx      xxx
+xzzzzzzzzoooooxxxxxxxxxoooooooooooxxxxxxxxxxxx  o  "xxxxxxxxxxxxxxxxxxxx        xx
+xzxxxxxxxoooooxxxxxxxxxooooooooooo  xxxxxxxxxx =]]]"xxxxxxxxxxxxxxxxxxxx        xx
+xzxxxxxxxxoboxxxxxxxxxxxoooooooooo  xxxxxxxxxx     "xxxxxxxxxxxxxxxxxxxx        xx
+xzxxxxxxxxx xx      xxxxxb<<<<<<<<  xxxxxxxxxx     "x      (      (        (    xx
+xzxxxxxxxxx xx    (  xxxx    8      xxxxxxxxxx     "x                  o 0      xx
+xzxxxxxxxxx xx        xxx           xxxxxxxxxx     "x    o2  oo1     xxxxxx   # xx
+xzxxxxxxxxx^xx         xx           xxxxxxxxxx     "xu xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxx       xxx     x           xxxxxxxxxx     "x  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x  ++++xx  u    xxx     ( ( ( ( ( (       xxxx     "x==xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x  ++++xx  6    xxx 5            ^   < 4    (  o 3 "x  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x  ====xx=====xxxxxxxxxxx===========xxxxxxxmmxxx===xx  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x        (    xxxxxxxxxxxmmmmmmmmmmmxxxxxxxxxxxx   xx  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      7      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx n     xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x D    xx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+? Boulders can block your way. However, if there is room, you can push them along. Push the boulder out of your way so you can get through!
+? You can only push one boulder at a time, so when boulders lie together like this, you can't move them.
+? If a boulder falls on to a wooden platform, it will smash through. Push this boulder off the edge, and it will smash a way through for you.
+? If you push a boulder onto spikes, it will break them. Use this boulder and the other boulders above you to break the spikes so you can crawl through the gap.
+? Falling boulders hurt if they hit you! They can also block your way out. When you hit the next arrow crate, it will set off a booby trap with falling boulders. Just keep running to the left as fast as you can!
+? Phew! That was close. Boulders can be dangerous but they can also help you by breaking a way through for you.
+? Jump up to bash the crate, and then stand well back of the falling boulders!!
+? Well done! Remember what you have learned about boulders, it will help you when exploring the pirate's caves!
+? Hmm.. looks like you're stuck. You should have run across before the boulders fell! Try again by clicking on the "restart" button.
+? 
+? 
+? 
+? 

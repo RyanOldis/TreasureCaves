@@ -1,0 +1,44 @@
+BoulderTest
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      x   x      x      x             x
+x      xooox      xoooooox             x
+x      xooox      xoooooox             x
+x      xooox      xoooooox             x
+x      x>>bx      xoooooox             x
+x                 x>>>>>bx             x
+x                                      x
+x #                                    x
+xxxxxx  ^                              x
+xxxxxxxxx                              x
+xxxxxxxxxx         ^                   x
+xxx  xxxxxxxxxxxxxxx                   x
+x      xxxxxxxxxxxxx                   x
+x                xxxx                  x
+x                 xxxx                 x
+x                  xxxxxx              x
+x                   xxxxxx             x
+x                                      x
+x                                      x
+x                          xx          x
+x                                      x
+x                             ++       x
+x                          xxxxxxxx    x
+x                        "xxxxxxxx    xx
+x                        " xxxxx      xx
+x                        "            xx
+x                        "            xx
+x                        "            xx
+x                        "            xx
+x D                  xxxxx          xxxx
+xxxx                xxxxxxx        xxxxx
+xxxxx  .            xxxxxxxxx      xxxxx
+xxxxxx             xxxxxxxxxxx     xxxxx
+xxxxxx            xxxxxxxxxxxx       xxx
+xxxxxxx           xxxxxxxxxxxxxx     xxx
+xxxxxxx           xxxxxxxxxxxxxx      xx
+xxxxxxxx   +++   xxxxxxxxxxxxxxx      xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

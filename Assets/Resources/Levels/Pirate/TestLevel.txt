@@ -1,0 +1,44 @@
+Test Level
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwxx  xxxxw  xxxxxxxxxxxxxxxxxxxxxxxxx
+xw  xxmxxxxw   xxxxxxxxxxxxxxxxxxxxxxxxx
+x    xxxxxx  xxxwwxxxx  wwxxxxxxxxxxxxxx
+xm  mxxxxw   xww             xxxxxxxxxxx
+xx  xxxw    xx                xxxxxxxxxx
+xxmmxxw   xxxw                xxxxxxxxxx
+xxxxxx ' xxw        ++      o  xxxxxxxxx
+xxxxxx            xxx===="===   xxxxxxxx
+xxxxxx|          xxxx    "      xxxxxxxx
+xxxxxx|          xxxw    "      wxxxxxxx
+xxxxxxx  /      xxxx     "       xxxxxxx
+xxxxxxx======   xxxx     "        xxxxxx
+xxxxxxx         xxxw     "         xxxxx
+xxxxxxw        xxxx      "         xxxxx
+xxxxxx     ++ xxxxx      "      +  xxxxx
+xxxxxx     ++xxxxxx {    "   ======xxxxx
+xxxxxx     xxxxxxxx      "         xxxxx
+xxxww     xxxxxw         "         xxxxx
+xxx      xxxxx      ^    "      ===xxxxx
+xxx    ==xx              "         xxxxx
+xxx                      "          xxxx
+xxx    #                 "          xxxx
+xxxxmmxxxxx     "=====   "   =======xxxx
+xxxxxxxxxxxx    "        "           xxx
+xxxxxxxxxxxxxx  "        "           xxx
+xxxxxxxxxxxxxxxx"     k  "      =====xxx
+xxx             "     b  "           xxx
+xx+++           "        "           xxx
+xx+++           "  b     "     xxxxxxxxx
+xx+++           " bbb    "   xxxwwxxxxxx
+xxxxxxx        xxxxxxx   xxxxxx   wxxxxx
+xxxxxxxx      xxxxxxxxxxxxxxxx     xxxxx
+xxxxxxxxx      xxxxx                xxxx
+xxxxxxxxxxx                         xxxx
+xxxxxxxxxxxxx                   D   xxxx
+xxxxxxxxxxxxxx          xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
